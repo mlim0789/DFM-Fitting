@@ -2,6 +2,9 @@
 # Xu Lab website: https://xugroup.berkeley.edu/
 # DFM fitting model and example analysis: https://www.biorxiv.org/content/10.1101/708263v1
 
+pip install openpyxl   # installs file loading package
+pip install tabulate   # installs data tabulating package
+
 import numpy as np
 import matplotlib.pyplot as plt
 import scipy.optimize as fitter
