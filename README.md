@@ -12,5 +12,5 @@ Original code created by Marc Lim, Ting Xu Lab, UC Berkeley, February 2020.
 Xu Lab website: https://xugroup.berkeley.edu/
 
 ### If you are new to Python coding, do not fear!
-Detailed instructions for using Online Demo version of JupyterLab Notebook can be found in the "JupyterLab DFM Instructions" file.
+Detailed instructions for using Online Demo version of JupyterLab Notebook can be found in the "JupyterLab DFM Instructions" file, found [here](JupyterLab%20DFM%20Instructions.pdf).
 
