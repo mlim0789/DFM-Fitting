@@ -1,6 +1,7 @@
 # Original code created by Marc Lim, Ting Xu Lab, UC Berkeley, February 2020
 # Xu Lab website: https://xugroup.berkeley.edu/
-# DFM fitting model and example analysis: https://www.biorxiv.org/content/10.1101/708263v1
+# DFM fitting model and example analysis: http://dx.doi.org/10.1021/acsbiomaterials.9b01590
+# BioRxiv:https://www.biorxiv.org/content/10.1101/708263v1
 
 pip install openpyxl   # installs file loading package
 pip install tabulate   # installs data tabulating package
